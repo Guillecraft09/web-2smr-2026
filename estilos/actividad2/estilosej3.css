@@ -46,9 +46,36 @@
 }
 .caja31{
 	margin:2%;
-	padding: 2px;
+	padding: 5px;
 	width: 100%;
+	border: 10px solid transparent;
 	border-image-source: url("img/bola-100.png");
+	text-align: justify;
+}
+.caja32{
+	margin:2%;
+	padding: 5px;
+	width: 100%;
+	border: 10px solid transparent;
+	border-image-source: url("img/pastilla.png");
 	border-image-slice: 25;
+	text-align: justify;
+}
+.caja33{
+	margin:2%;
+	padding: 5px;
+	width: 100%;
+	border: 10px solid transparent;
+	border-image-source: url("img/ventana.png");
+	border-image-slice: 10;
+	text-align: justify;
+}
+.caja34{
+	margin:2%;
+	padding: 5px;
+	width: 100%;
+	border: 10px solid transparent;
+	border-image-source: url("img/hormigas.png");
+	border-image-slice: 35;
 	text-align: justify;
 }
